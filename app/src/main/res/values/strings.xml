@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Boatwright ATM/Branch Locator</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_title">Boatwright ATM/Branch Locator</string>
+    <string name="street_address">Street Address</string>
+    <string name="state">State</string>
+    <string name="zip">Zip</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="submit">Submit</string>
+    <string name="city">City</string>
+    <string name="find_atm_and_branch_locations_near_your_current_location">Find ATM and Branch chaseLocation near your current location</string>
+    <string name="find_locations">Find Locations</string>
+    <string name="location_details">Location Details</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="name">Name</string>
+    <string name="distance">Distance</string>
+    <string name="type">Type</string>
+    <string name="lobby">Lobby</string>
+    <string name="multi_line_test">Test\ntest\ntest\ntest</string>
+    <string name="test">test</string>
+    <string name="drive_up_hours">Drive-Up Hours</string>
+    <string name="atms">ATMs</string>
+    <string name="done">Done</string>
+    <string name="access">Access</string>
+    <string name="services">Services</string>
+    <string name="days_sep_lines">Sun:\nMon:\nTues:\nWed:\nThurs\nFri:\nSat:</string>
+</resources>
